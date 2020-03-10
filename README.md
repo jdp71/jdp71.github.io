@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portfolio site
+
+I have a bunch of projects that I have worked on that highlight some of my coding and data analysis experiences.
 
 You can use the [editor on GitHub](https://github.com/jdp71/jdp71.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
