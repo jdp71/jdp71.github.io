@@ -3,7 +3,7 @@ title: "Interactive Data Visualization Dashboard"
 date: 2020-03-15
 tags: [Data Visualization]
 header:
-  image: "/images/chemistry.png"
+  image: "/images/chemistry.jpg"
 excerpt: "This is an interactive Tableau Workbook of actual test data."
 ---
 For this project, I wanted to create an interactive visualization that would allow the user to drive the data story.  The visualization provides a movie-like playback feature that enhances the visualizaiton.
