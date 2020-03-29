@@ -1,7 +1,11 @@
 ---
 title: "Expedia Hotel Predictions"
 date: 2020-03-15
-tags: [Predictive Modeling]
+tags:
+ - Python
+ - R
+ - Predictive Modeling
+ - EDA
 header:
   image: "/images/hotel.jpg"
 excerpt: "This is a Jupyter Notebook script based off the Expedia Hotel Recommendation contest originally listed on Kaggle."
