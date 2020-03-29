@@ -1,7 +1,9 @@
 ---
 title: "Interactive Data Visualization Dashboard"
 date: 2020-03-15
-tags: [Data Visualization]
+tags:
+ - Data Visualization
+ - Tableau
 header:
   image: "/images/chemistry.jpg"
 excerpt: "This is an interactive Tableau Workbook of actual test data."

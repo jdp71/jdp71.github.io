@@ -1,7 +1,12 @@
 ---
 title: "Generalization of NBA Salary Prediction Model"
 date: 2020-03-15
-tags: [Model Generalization]
+tags:
+ - Python
+ - Model Generalization
+ - Predictive Analytics
+ - Web Scraping
+ - R
 header:
   image: "/images/NBA.jpg"
 excerpt: "This is a continuation of the NBA Part I project."

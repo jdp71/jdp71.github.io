@@ -1,7 +1,9 @@
 ---
 title: "Web Scraping Project"
 date: 2020-03-15
-tags: [Web Scraping]
+tags:
+ - Python
+ - Web Scraping
 header:
   image: "/images/pac-12-logos.jpg"
 excerpt: "Web scraping the PAC-12 football statistics"

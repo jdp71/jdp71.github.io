@@ -1,7 +1,11 @@
 ---
 title: "Anlaysis of Global Terrorism Database"
 date: 2020-03-15
-tags: [ROC Curve]
+tags:
+ - Graphic Analysis
+ - Python
+ - Logistic Regression
+ - ROC Curve
 header:
   image: "/images/Terrorism.jpg"
 excerpt: "This is an analysis of terrorism incidents throughout the world."

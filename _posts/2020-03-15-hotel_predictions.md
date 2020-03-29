@@ -4,7 +4,7 @@ date: 2020-03-15
 tags:
  - Python
  - R
- - Predictive Modeling
+ - Predictive Analytics
  - EDA
 header:
   image: "/images/hotel.jpg"
