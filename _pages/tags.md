@@ -8,7 +8,7 @@ layout: tags
 
 header:
 
-  image: ""
+  image: "/images/red_bar.png"
 
 author_profile: false
 
