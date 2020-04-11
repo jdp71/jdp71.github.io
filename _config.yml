@@ -18,7 +18,7 @@ minimal_mistakes_skin    :  "air" # "default", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Using data to make informed decisions"
 title_separator          : "-"
-subtitle                 : Home
+subtitle                 : "Home"
 name                     : "Jeffery Peterson"
 description              : "My Data Science Portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
