@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeffery Peterson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/pic.png"
   bio              : "Data Science Portfolio."
   location         : "Saratoga Springs, UT"
   email            :
